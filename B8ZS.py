@@ -55,6 +55,6 @@ if __name__ == "__main__":
         else:
             print(f"FAILED ENCODE: {i}")
         if B8ZS_decode(B8ZS_encode(i)) == i:
-            print(f"PASS DECODE: {i}")
+            print(f"PASS DECODE: {o}")
         else:
-            print(f"FAILED DECODE: {i}")
+            print(f"FAILED DECODE: {o}")
