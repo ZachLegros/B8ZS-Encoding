@@ -1,9 +1,9 @@
 # B8ZS-Encoding
 ## Comment exécuter l’application
 
-L’application a un serveur et des clients en Python > 3.10 . Il est essentiel d’avoir les librairies dans le fichier requirements.txt
+L’application a un serveur et des clients en `Python > 3.10` . Il est essentiel d’avoir les librairies dans le fichier requirements.txt
 
-Créer un environnement (optionnel):
+### Créer un environnement (optionnel):
 
 Pour installer Python3.10, il faut faire
 sudo apt-get install python3.10
