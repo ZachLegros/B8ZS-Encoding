@@ -24,7 +24,7 @@ Ensuite, on installe tous les packages dans l’environnement en faisant
 ```console
 $ pip install -r requirements.txt
 ```
-### Exécuter le Serveur
+### Exécuter le serveur
 Ouvrir un terminal et activer l’environnement
 ```console
 $ source myEnv/bin/activate
